@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Compute_Quotient_Remainder/1.0.0": {
+        "runtime": {
+          "Compute_Quotient_Remainder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Compute_Quotient_Remainder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

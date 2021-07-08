@@ -1,0 +1,12 @@
+G:\Bridgelab\Basic_Program\Compute_Quotient_Remainder\obj\Debug\netcoreapp3.1\Compute_Quotient_Remainder.AssemblyInfoInputs.cache
+G:\Bridgelab\Basic_Program\Compute_Quotient_Remainder\obj\Debug\netcoreapp3.1\Compute_Quotient_Remainder.AssemblyInfo.cs
+G:\Bridgelab\Basic_Program\Compute_Quotient_Remainder\obj\Debug\netcoreapp3.1\Compute_Quotient_Remainder.csproj.CoreCompileInputs.cache
+G:\Bridgelab\Basic_Program\Compute_Quotient_Remainder\bin\Debug\netcoreapp3.1\Compute_Quotient_Remainder.exe
+G:\Bridgelab\Basic_Program\Compute_Quotient_Remainder\bin\Debug\netcoreapp3.1\Compute_Quotient_Remainder.deps.json
+G:\Bridgelab\Basic_Program\Compute_Quotient_Remainder\bin\Debug\netcoreapp3.1\Compute_Quotient_Remainder.runtimeconfig.json
+G:\Bridgelab\Basic_Program\Compute_Quotient_Remainder\bin\Debug\netcoreapp3.1\Compute_Quotient_Remainder.runtimeconfig.dev.json
+G:\Bridgelab\Basic_Program\Compute_Quotient_Remainder\bin\Debug\netcoreapp3.1\Compute_Quotient_Remainder.dll
+G:\Bridgelab\Basic_Program\Compute_Quotient_Remainder\bin\Debug\netcoreapp3.1\Compute_Quotient_Remainder.pdb
+G:\Bridgelab\Basic_Program\Compute_Quotient_Remainder\obj\Debug\netcoreapp3.1\Compute_Quotient_Remainder.dll
+G:\Bridgelab\Basic_Program\Compute_Quotient_Remainder\obj\Debug\netcoreapp3.1\Compute_Quotient_Remainder.pdb
+G:\Bridgelab\Basic_Program\Compute_Quotient_Remainder\obj\Debug\netcoreapp3.1\Compute_Quotient_Remainder.genruntimeconfig.cache
