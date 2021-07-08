@@ -1,0 +1,13 @@
+G:\Bridgelab\Basic_Program\Prime_Factors\bin\Debug\netcoreapp3.1\Prime_Factors.exe
+G:\Bridgelab\Basic_Program\Prime_Factors\bin\Debug\netcoreapp3.1\Prime_Factors.deps.json
+G:\Bridgelab\Basic_Program\Prime_Factors\bin\Debug\netcoreapp3.1\Prime_Factors.runtimeconfig.json
+G:\Bridgelab\Basic_Program\Prime_Factors\bin\Debug\netcoreapp3.1\Prime_Factors.runtimeconfig.dev.json
+G:\Bridgelab\Basic_Program\Prime_Factors\bin\Debug\netcoreapp3.1\Prime_Factors.dll
+G:\Bridgelab\Basic_Program\Prime_Factors\bin\Debug\netcoreapp3.1\Prime_Factors.pdb
+G:\Bridgelab\Basic_Program\Prime_Factors\obj\Debug\netcoreapp3.1\Prime_Factors.csproj.AssemblyReference.cache
+G:\Bridgelab\Basic_Program\Prime_Factors\obj\Debug\netcoreapp3.1\Prime_Factors.AssemblyInfoInputs.cache
+G:\Bridgelab\Basic_Program\Prime_Factors\obj\Debug\netcoreapp3.1\Prime_Factors.AssemblyInfo.cs
+G:\Bridgelab\Basic_Program\Prime_Factors\obj\Debug\netcoreapp3.1\Prime_Factors.csproj.CoreCompileInputs.cache
+G:\Bridgelab\Basic_Program\Prime_Factors\obj\Debug\netcoreapp3.1\Prime_Factors.dll
+G:\Bridgelab\Basic_Program\Prime_Factors\obj\Debug\netcoreapp3.1\Prime_Factors.pdb
+G:\Bridgelab\Basic_Program\Prime_Factors\obj\Debug\netcoreapp3.1\Prime_Factors.genruntimeconfig.cache
