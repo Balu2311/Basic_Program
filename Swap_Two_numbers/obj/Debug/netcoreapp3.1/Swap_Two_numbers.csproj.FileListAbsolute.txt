@@ -1,0 +1,13 @@
+G:\Bridgelab\Basic_Program\Swap_Two_numbers\bin\Debug\netcoreapp3.1\Swap_Two_numbers.exe
+G:\Bridgelab\Basic_Program\Swap_Two_numbers\bin\Debug\netcoreapp3.1\Swap_Two_numbers.deps.json
+G:\Bridgelab\Basic_Program\Swap_Two_numbers\bin\Debug\netcoreapp3.1\Swap_Two_numbers.runtimeconfig.json
+G:\Bridgelab\Basic_Program\Swap_Two_numbers\bin\Debug\netcoreapp3.1\Swap_Two_numbers.runtimeconfig.dev.json
+G:\Bridgelab\Basic_Program\Swap_Two_numbers\bin\Debug\netcoreapp3.1\Swap_Two_numbers.dll
+G:\Bridgelab\Basic_Program\Swap_Two_numbers\bin\Debug\netcoreapp3.1\Swap_Two_numbers.pdb
+G:\Bridgelab\Basic_Program\Swap_Two_numbers\obj\Debug\netcoreapp3.1\Swap_Two_numbers.csproj.AssemblyReference.cache
+G:\Bridgelab\Basic_Program\Swap_Two_numbers\obj\Debug\netcoreapp3.1\Swap_Two_numbers.AssemblyInfoInputs.cache
+G:\Bridgelab\Basic_Program\Swap_Two_numbers\obj\Debug\netcoreapp3.1\Swap_Two_numbers.AssemblyInfo.cs
+G:\Bridgelab\Basic_Program\Swap_Two_numbers\obj\Debug\netcoreapp3.1\Swap_Two_numbers.csproj.CoreCompileInputs.cache
+G:\Bridgelab\Basic_Program\Swap_Two_numbers\obj\Debug\netcoreapp3.1\Swap_Two_numbers.dll
+G:\Bridgelab\Basic_Program\Swap_Two_numbers\obj\Debug\netcoreapp3.1\Swap_Two_numbers.pdb
+G:\Bridgelab\Basic_Program\Swap_Two_numbers\obj\Debug\netcoreapp3.1\Swap_Two_numbers.genruntimeconfig.cache
