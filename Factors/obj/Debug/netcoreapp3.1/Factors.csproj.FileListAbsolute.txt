@@ -1,0 +1,13 @@
+G:\Bridgelab\Basic_Program\Factors\bin\Debug\netcoreapp3.1\Factors.exe
+G:\Bridgelab\Basic_Program\Factors\bin\Debug\netcoreapp3.1\Factors.deps.json
+G:\Bridgelab\Basic_Program\Factors\bin\Debug\netcoreapp3.1\Factors.runtimeconfig.json
+G:\Bridgelab\Basic_Program\Factors\bin\Debug\netcoreapp3.1\Factors.runtimeconfig.dev.json
+G:\Bridgelab\Basic_Program\Factors\bin\Debug\netcoreapp3.1\Factors.dll
+G:\Bridgelab\Basic_Program\Factors\bin\Debug\netcoreapp3.1\Factors.pdb
+G:\Bridgelab\Basic_Program\Factors\obj\Debug\netcoreapp3.1\Factors.csproj.AssemblyReference.cache
+G:\Bridgelab\Basic_Program\Factors\obj\Debug\netcoreapp3.1\Factors.AssemblyInfoInputs.cache
+G:\Bridgelab\Basic_Program\Factors\obj\Debug\netcoreapp3.1\Factors.AssemblyInfo.cs
+G:\Bridgelab\Basic_Program\Factors\obj\Debug\netcoreapp3.1\Factors.csproj.CoreCompileInputs.cache
+G:\Bridgelab\Basic_Program\Factors\obj\Debug\netcoreapp3.1\Factors.dll
+G:\Bridgelab\Basic_Program\Factors\obj\Debug\netcoreapp3.1\Factors.pdb
+G:\Bridgelab\Basic_Program\Factors\obj\Debug\netcoreapp3.1\Factors.genruntimeconfig.cache
