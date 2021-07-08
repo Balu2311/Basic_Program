@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Alphabet_Vowel_ Consonant/1.0.0": {
+        "runtime": {
+          "Alphabet_Vowel_ Consonant.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alphabet_Vowel_ Consonant/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

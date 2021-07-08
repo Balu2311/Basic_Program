@@ -1,0 +1,12 @@
+G:\Bridgelab\Basic_Program\Alphabet_Vowel_ Consonant\bin\Debug\netcoreapp3.1\Vowel_Consonant.exe
+G:\Bridgelab\Basic_Program\Alphabet_Vowel_ Consonant\bin\Debug\netcoreapp3.1\Vowel_Consonant.deps.json
+G:\Bridgelab\Basic_Program\Alphabet_Vowel_ Consonant\bin\Debug\netcoreapp3.1\Vowel_Consonant.runtimeconfig.json
+G:\Bridgelab\Basic_Program\Alphabet_Vowel_ Consonant\bin\Debug\netcoreapp3.1\Vowel_Consonant.runtimeconfig.dev.json
+G:\Bridgelab\Basic_Program\Alphabet_Vowel_ Consonant\bin\Debug\netcoreapp3.1\Vowel_Consonant.dll
+G:\Bridgelab\Basic_Program\Alphabet_Vowel_ Consonant\bin\Debug\netcoreapp3.1\Vowel_Consonant.pdb
+G:\Bridgelab\Basic_Program\Alphabet_Vowel_ Consonant\obj\Debug\netcoreapp3.1\Vowel_Consonant.AssemblyInfoInputs.cache
+G:\Bridgelab\Basic_Program\Alphabet_Vowel_ Consonant\obj\Debug\netcoreapp3.1\Vowel_Consonant.AssemblyInfo.cs
+G:\Bridgelab\Basic_Program\Alphabet_Vowel_ Consonant\obj\Debug\netcoreapp3.1\Vowel_Consonant.csproj.CoreCompileInputs.cache
+G:\Bridgelab\Basic_Program\Alphabet_Vowel_ Consonant\obj\Debug\netcoreapp3.1\Vowel_Consonant.dll
+G:\Bridgelab\Basic_Program\Alphabet_Vowel_ Consonant\obj\Debug\netcoreapp3.1\Vowel_Consonant.pdb
+G:\Bridgelab\Basic_Program\Alphabet_Vowel_ Consonant\obj\Debug\netcoreapp3.1\Vowel_Consonant.genruntimeconfig.cache
