@@ -1,0 +1,13 @@
+G:\Bridgelab\Basic_Program\Leap_Year\bin\Debug\netcoreapp3.1\Leap_Year.exe
+G:\Bridgelab\Basic_Program\Leap_Year\bin\Debug\netcoreapp3.1\Leap_Year.deps.json
+G:\Bridgelab\Basic_Program\Leap_Year\bin\Debug\netcoreapp3.1\Leap_Year.runtimeconfig.json
+G:\Bridgelab\Basic_Program\Leap_Year\bin\Debug\netcoreapp3.1\Leap_Year.runtimeconfig.dev.json
+G:\Bridgelab\Basic_Program\Leap_Year\bin\Debug\netcoreapp3.1\Leap_Year.dll
+G:\Bridgelab\Basic_Program\Leap_Year\bin\Debug\netcoreapp3.1\Leap_Year.pdb
+G:\Bridgelab\Basic_Program\Leap_Year\obj\Debug\netcoreapp3.1\Leap_Year.AssemblyInfoInputs.cache
+G:\Bridgelab\Basic_Program\Leap_Year\obj\Debug\netcoreapp3.1\Leap_Year.AssemblyInfo.cs
+G:\Bridgelab\Basic_Program\Leap_Year\obj\Debug\netcoreapp3.1\Leap_Year.csproj.CoreCompileInputs.cache
+G:\Bridgelab\Basic_Program\Leap_Year\obj\Debug\netcoreapp3.1\Leap_Year.dll
+G:\Bridgelab\Basic_Program\Leap_Year\obj\Debug\netcoreapp3.1\Leap_Year.pdb
+G:\Bridgelab\Basic_Program\Leap_Year\obj\Debug\netcoreapp3.1\Leap_Year.genruntimeconfig.cache
+G:\Bridgelab\Basic_Program\Leap_Year\obj\Debug\netcoreapp3.1\Leap_Year.csproj.AssemblyReference.cache
