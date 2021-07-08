@@ -1,0 +1,12 @@
+G:\Bridgelab\Basic_Program\Vowel_Consonant_Count\bin\Debug\netcoreapp3.1\Vowel_Consonant_Count.exe
+G:\Bridgelab\Basic_Program\Vowel_Consonant_Count\bin\Debug\netcoreapp3.1\Vowel_Consonant_Count.deps.json
+G:\Bridgelab\Basic_Program\Vowel_Consonant_Count\bin\Debug\netcoreapp3.1\Vowel_Consonant_Count.runtimeconfig.json
+G:\Bridgelab\Basic_Program\Vowel_Consonant_Count\bin\Debug\netcoreapp3.1\Vowel_Consonant_Count.runtimeconfig.dev.json
+G:\Bridgelab\Basic_Program\Vowel_Consonant_Count\bin\Debug\netcoreapp3.1\Vowel_Consonant_Count.dll
+G:\Bridgelab\Basic_Program\Vowel_Consonant_Count\bin\Debug\netcoreapp3.1\Vowel_Consonant_Count.pdb
+G:\Bridgelab\Basic_Program\Vowel_Consonant_Count\obj\Debug\netcoreapp3.1\Vowel_Consonant_Count.AssemblyInfoInputs.cache
+G:\Bridgelab\Basic_Program\Vowel_Consonant_Count\obj\Debug\netcoreapp3.1\Vowel_Consonant_Count.AssemblyInfo.cs
+G:\Bridgelab\Basic_Program\Vowel_Consonant_Count\obj\Debug\netcoreapp3.1\Vowel_Consonant_Count.csproj.CoreCompileInputs.cache
+G:\Bridgelab\Basic_Program\Vowel_Consonant_Count\obj\Debug\netcoreapp3.1\Vowel_Consonant_Count.dll
+G:\Bridgelab\Basic_Program\Vowel_Consonant_Count\obj\Debug\netcoreapp3.1\Vowel_Consonant_Count.pdb
+G:\Bridgelab\Basic_Program\Vowel_Consonant_Count\obj\Debug\netcoreapp3.1\Vowel_Consonant_Count.genruntimeconfig.cache
