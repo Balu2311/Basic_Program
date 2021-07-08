@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Harmonice_Number/1.0.0": {
+        "runtime": {
+          "Harmonice_Number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Harmonice_Number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

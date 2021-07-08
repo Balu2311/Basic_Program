@@ -1,0 +1,13 @@
+G:\Bridgelab\Basic_Program\Harmonice_Number\bin\Debug\netcoreapp3.1\Harmonice_Number.exe
+G:\Bridgelab\Basic_Program\Harmonice_Number\bin\Debug\netcoreapp3.1\Harmonice_Number.deps.json
+G:\Bridgelab\Basic_Program\Harmonice_Number\bin\Debug\netcoreapp3.1\Harmonice_Number.runtimeconfig.json
+G:\Bridgelab\Basic_Program\Harmonice_Number\bin\Debug\netcoreapp3.1\Harmonice_Number.runtimeconfig.dev.json
+G:\Bridgelab\Basic_Program\Harmonice_Number\bin\Debug\netcoreapp3.1\Harmonice_Number.dll
+G:\Bridgelab\Basic_Program\Harmonice_Number\bin\Debug\netcoreapp3.1\Harmonice_Number.pdb
+G:\Bridgelab\Basic_Program\Harmonice_Number\obj\Debug\netcoreapp3.1\Harmonice_Number.csproj.AssemblyReference.cache
+G:\Bridgelab\Basic_Program\Harmonice_Number\obj\Debug\netcoreapp3.1\Harmonice_Number.AssemblyInfoInputs.cache
+G:\Bridgelab\Basic_Program\Harmonice_Number\obj\Debug\netcoreapp3.1\Harmonice_Number.AssemblyInfo.cs
+G:\Bridgelab\Basic_Program\Harmonice_Number\obj\Debug\netcoreapp3.1\Harmonice_Number.csproj.CoreCompileInputs.cache
+G:\Bridgelab\Basic_Program\Harmonice_Number\obj\Debug\netcoreapp3.1\Harmonice_Number.dll
+G:\Bridgelab\Basic_Program\Harmonice_Number\obj\Debug\netcoreapp3.1\Harmonice_Number.pdb
+G:\Bridgelab\Basic_Program\Harmonice_Number\obj\Debug\netcoreapp3.1\Harmonice_Number.genruntimeconfig.cache
