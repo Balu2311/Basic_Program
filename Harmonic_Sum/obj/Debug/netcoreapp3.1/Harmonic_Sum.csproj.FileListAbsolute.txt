@@ -1,0 +1,13 @@
+G:\Bridgelab\Basic_Program\Harmonic_Sum\bin\Debug\netcoreapp3.1\Harmonic_Sum.exe
+G:\Bridgelab\Basic_Program\Harmonic_Sum\bin\Debug\netcoreapp3.1\Harmonic_Sum.deps.json
+G:\Bridgelab\Basic_Program\Harmonic_Sum\bin\Debug\netcoreapp3.1\Harmonic_Sum.runtimeconfig.json
+G:\Bridgelab\Basic_Program\Harmonic_Sum\bin\Debug\netcoreapp3.1\Harmonic_Sum.runtimeconfig.dev.json
+G:\Bridgelab\Basic_Program\Harmonic_Sum\bin\Debug\netcoreapp3.1\Harmonic_Sum.dll
+G:\Bridgelab\Basic_Program\Harmonic_Sum\bin\Debug\netcoreapp3.1\Harmonic_Sum.pdb
+G:\Bridgelab\Basic_Program\Harmonic_Sum\obj\Debug\netcoreapp3.1\Harmonic_Sum.csproj.AssemblyReference.cache
+G:\Bridgelab\Basic_Program\Harmonic_Sum\obj\Debug\netcoreapp3.1\Harmonic_Sum.AssemblyInfoInputs.cache
+G:\Bridgelab\Basic_Program\Harmonic_Sum\obj\Debug\netcoreapp3.1\Harmonic_Sum.AssemblyInfo.cs
+G:\Bridgelab\Basic_Program\Harmonic_Sum\obj\Debug\netcoreapp3.1\Harmonic_Sum.csproj.CoreCompileInputs.cache
+G:\Bridgelab\Basic_Program\Harmonic_Sum\obj\Debug\netcoreapp3.1\Harmonic_Sum.dll
+G:\Bridgelab\Basic_Program\Harmonic_Sum\obj\Debug\netcoreapp3.1\Harmonic_Sum.pdb
+G:\Bridgelab\Basic_Program\Harmonic_Sum\obj\Debug\netcoreapp3.1\Harmonic_Sum.genruntimeconfig.cache
