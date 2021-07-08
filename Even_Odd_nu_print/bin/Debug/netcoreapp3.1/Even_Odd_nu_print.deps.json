@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Even_Odd_nu_print/1.0.0": {
+        "runtime": {
+          "Even_Odd_nu_print.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Even_Odd_nu_print/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

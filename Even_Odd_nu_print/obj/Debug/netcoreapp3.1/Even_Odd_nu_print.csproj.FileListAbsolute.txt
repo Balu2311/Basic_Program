@@ -1,0 +1,13 @@
+G:\Bridgelab\Basic_Program\Even_Odd_nu_print\bin\Debug\netcoreapp3.1\Even_Odd_nu_print.exe
+G:\Bridgelab\Basic_Program\Even_Odd_nu_print\bin\Debug\netcoreapp3.1\Even_Odd_nu_print.deps.json
+G:\Bridgelab\Basic_Program\Even_Odd_nu_print\bin\Debug\netcoreapp3.1\Even_Odd_nu_print.runtimeconfig.json
+G:\Bridgelab\Basic_Program\Even_Odd_nu_print\bin\Debug\netcoreapp3.1\Even_Odd_nu_print.runtimeconfig.dev.json
+G:\Bridgelab\Basic_Program\Even_Odd_nu_print\bin\Debug\netcoreapp3.1\Even_Odd_nu_print.dll
+G:\Bridgelab\Basic_Program\Even_Odd_nu_print\bin\Debug\netcoreapp3.1\Even_Odd_nu_print.pdb
+G:\Bridgelab\Basic_Program\Even_Odd_nu_print\obj\Debug\netcoreapp3.1\Even_Odd_nu_print.csproj.AssemblyReference.cache
+G:\Bridgelab\Basic_Program\Even_Odd_nu_print\obj\Debug\netcoreapp3.1\Even_Odd_nu_print.AssemblyInfoInputs.cache
+G:\Bridgelab\Basic_Program\Even_Odd_nu_print\obj\Debug\netcoreapp3.1\Even_Odd_nu_print.AssemblyInfo.cs
+G:\Bridgelab\Basic_Program\Even_Odd_nu_print\obj\Debug\netcoreapp3.1\Even_Odd_nu_print.csproj.CoreCompileInputs.cache
+G:\Bridgelab\Basic_Program\Even_Odd_nu_print\obj\Debug\netcoreapp3.1\Even_Odd_nu_print.dll
+G:\Bridgelab\Basic_Program\Even_Odd_nu_print\obj\Debug\netcoreapp3.1\Even_Odd_nu_print.pdb
+G:\Bridgelab\Basic_Program\Even_Odd_nu_print\obj\Debug\netcoreapp3.1\Even_Odd_nu_print.genruntimeconfig.cache
