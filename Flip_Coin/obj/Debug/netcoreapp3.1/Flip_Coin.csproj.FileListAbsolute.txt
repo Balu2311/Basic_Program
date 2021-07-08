@@ -1,0 +1,12 @@
+G:\Bridgelab\Basic_Program\Flip_Coin\bin\Debug\netcoreapp3.1\Flip_Coin.exe
+G:\Bridgelab\Basic_Program\Flip_Coin\bin\Debug\netcoreapp3.1\Flip_Coin.deps.json
+G:\Bridgelab\Basic_Program\Flip_Coin\bin\Debug\netcoreapp3.1\Flip_Coin.runtimeconfig.json
+G:\Bridgelab\Basic_Program\Flip_Coin\bin\Debug\netcoreapp3.1\Flip_Coin.runtimeconfig.dev.json
+G:\Bridgelab\Basic_Program\Flip_Coin\bin\Debug\netcoreapp3.1\Flip_Coin.dll
+G:\Bridgelab\Basic_Program\Flip_Coin\bin\Debug\netcoreapp3.1\Flip_Coin.pdb
+G:\Bridgelab\Basic_Program\Flip_Coin\obj\Debug\netcoreapp3.1\Flip_Coin.AssemblyInfoInputs.cache
+G:\Bridgelab\Basic_Program\Flip_Coin\obj\Debug\netcoreapp3.1\Flip_Coin.AssemblyInfo.cs
+G:\Bridgelab\Basic_Program\Flip_Coin\obj\Debug\netcoreapp3.1\Flip_Coin.csproj.CoreCompileInputs.cache
+G:\Bridgelab\Basic_Program\Flip_Coin\obj\Debug\netcoreapp3.1\Flip_Coin.dll
+G:\Bridgelab\Basic_Program\Flip_Coin\obj\Debug\netcoreapp3.1\Flip_Coin.pdb
+G:\Bridgelab\Basic_Program\Flip_Coin\obj\Debug\netcoreapp3.1\Flip_Coin.genruntimeconfig.cache
