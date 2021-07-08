@@ -1,0 +1,13 @@
+G:\Bridgelab\Basic_Program\PowerOf2\bin\Debug\netcoreapp3.1\PowerOf2.exe
+G:\Bridgelab\Basic_Program\PowerOf2\bin\Debug\netcoreapp3.1\PowerOf2.deps.json
+G:\Bridgelab\Basic_Program\PowerOf2\bin\Debug\netcoreapp3.1\PowerOf2.runtimeconfig.json
+G:\Bridgelab\Basic_Program\PowerOf2\bin\Debug\netcoreapp3.1\PowerOf2.runtimeconfig.dev.json
+G:\Bridgelab\Basic_Program\PowerOf2\bin\Debug\netcoreapp3.1\PowerOf2.dll
+G:\Bridgelab\Basic_Program\PowerOf2\bin\Debug\netcoreapp3.1\PowerOf2.pdb
+G:\Bridgelab\Basic_Program\PowerOf2\obj\Debug\netcoreapp3.1\PowerOf2.csproj.AssemblyReference.cache
+G:\Bridgelab\Basic_Program\PowerOf2\obj\Debug\netcoreapp3.1\PowerOf2.AssemblyInfoInputs.cache
+G:\Bridgelab\Basic_Program\PowerOf2\obj\Debug\netcoreapp3.1\PowerOf2.AssemblyInfo.cs
+G:\Bridgelab\Basic_Program\PowerOf2\obj\Debug\netcoreapp3.1\PowerOf2.csproj.CoreCompileInputs.cache
+G:\Bridgelab\Basic_Program\PowerOf2\obj\Debug\netcoreapp3.1\PowerOf2.dll
+G:\Bridgelab\Basic_Program\PowerOf2\obj\Debug\netcoreapp3.1\PowerOf2.pdb
+G:\Bridgelab\Basic_Program\PowerOf2\obj\Debug\netcoreapp3.1\PowerOf2.genruntimeconfig.cache
